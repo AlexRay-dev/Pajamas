@@ -1,1 +1,1 @@
-[# Pajamas](https://alexray-dev.github.io/TestAlef/)
+https://alexray-dev.github.io/TestAlef/
